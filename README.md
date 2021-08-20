@@ -26,6 +26,8 @@
 * [🍉非关系型数据库（NoSQL）](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93nosql)
 * [💡系统设计](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)
 * [💻操作系统](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+* [☁️容器技术](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%EF%B8%8F%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF)
+* [🧰DevOps、CI&CD自动化工具](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#devopscicd%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)
 * [🌍Web前端相关](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-web%E5%89%8D%E7%AB%AF%E7%9B%B8%E5%85%B3)
 * [🙇面试须知](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5)
 * [🧭宝藏指南](https://github.com/YSGStudyHards/DotNetGuide/blob/main/README.md#-%E5%AE%9D%E8%97%8F%E6%8C%87%E5%8D%97)
@@ -33,11 +35,14 @@
 
 ---
 
+
+
 ## 🏷️C#/.NET/.NET Core高质量教程收录栈
 ### [⚒️开发利器](https://github.com/YSGStudyHards/DotNetGuide/issues/11)
 ### 🔋[awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)
 ### 📚[.NET 应用程序体系结构文档](https://docs.microsoft.com/zh-cn/dotnet/architecture/)
 ### 📚[C#/.NET/.NET Core推荐学习书籍](https://github.com/YSGStudyHards/DotNetGuide/issues/9)
+### 📺[C#/.NET/.NET Core学习视频汇总](https://www.cnblogs.com/Can-daydayup/p/15046838.html)
 ### 🐮[C#/.NET/.NET Core推荐博客or博主](https://github.com/YSGStudyHards/DotNetGuide/issues/8)
 ### 🏗️[C#/.NET/.NET Core优秀项目，框架汇总 ](https://github.com/YSGStudyHards/DotNetGuide/issues/5)
 ### 📚[2021年 ASP.NET Core 开发者学习指南（中文）](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hans.md)
@@ -48,6 +53,7 @@
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
+
 
 
 ## 🏫C#/.NET/.NET Core基础面试题
@@ -90,6 +96,7 @@
 ---
 
 
+
 ## 🧱设计模式
 ### 作用：
 > 设计模式（Design Pattern） 是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，使用设计模式是为了可重用代码、让代码更容易被他人理解并且保证代码可靠性。
@@ -108,6 +115,7 @@
 ---
 
 
+
 ## 🧮算法
 * [在线算法刷题平台-力扣（LeetCode）](https://leetcode-cn.com/)
 * [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
@@ -122,17 +130,22 @@
 ---
 
 
+
 ## 🍇关系型数据库（SQL）
 > 关系型数据库指的是使用关系模型（二维表格模型）来组织数据的数据库。
+#### [数据库系统原理](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.html#%E4%B8%80%E3%80%81%E4%BA%8B%E5%8A%A1)
 #### [关系型数据库是什么？](http://c.biancheng.net/view/6490.html)
 #### [非关系型数据库（NOSQL）和关系型数据库（SQL）区别详解](https://www.cnblogs.com/Can-daydayup/p/14353082.html)
 ### MySQL
 * [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html)
+* [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
+* [MySQL基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL.html#%E4%B8%80%E3%80%81%E7%B4%A2%E5%BC%95)
 * [MySQL 入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [顺丰面试：MySQL十连击](https://mp.weixin.qq.com/s/ZoCZLG3o3AZBDSO1y3nbmw)
 * [MySQL中，21个写SQL的好习惯](https://mp.weixin.qq.com/s/cAJg_MZP_xI853wLdWAE7A)
+
 
 ### Microsoft SQL Server
 * [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
@@ -148,6 +161,7 @@
 ---
 
 
+
 ## 🍉非关系型数据库（NoSQL）
 > 非关系型数据库又被称为 NoSQL（Not Only SQL )，意为不仅仅是 SQL。通常指数据以对象的形式存储在数据库中，而对象之间的关系通过每个对象自身的属性来决定，常用于存储非结构化的数据。
 #### [NoSQL数据库有哪些？](http://c.biancheng.net/view/6498.html)
@@ -159,6 +173,7 @@
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [Redis知识点总结](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
 * [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
+* [Redis基础知识汇总](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis.html#%E4%B8%80%E3%80%81%E6%A6%82%E8%BF%B0)
 
 ### MongoDB
 * [MongoDB中文社区](https://mongoing.com/)
@@ -174,6 +189,8 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+
+
 ## 💡系统设计
 * [Microservices from Design to Deployment 中文版 《微服务：从设计到部署》](https://github.com/DocsHome/microservices)
 * [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
@@ -182,13 +199,61 @@
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+
+
 ## 💻操作系统
 * [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md)
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
+* [计算机网络](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.html#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5)
+* [HTTP](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/HTTP/HTTP.html#%E4%B8%80-%E3%80%81%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
+* [Socket](http://www.cyc2018.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/Socket/Socket.html#%E4%B8%80%E3%80%81i-o-%E6%A8%A1%E5%9E%8B)
+* 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
-
 ---
+
+
+
+## ☁️容器技术
+### Kubernetes（K8s）
+> Kubernetes是容器集群管理系统，是一个开源的平台，可以实现容器集群的自动化部署、自动扩缩容、维护等功能。
+
+* [一文了解 Kubernetes](https://zhuanlan.zhihu.com/p/162928436)
+* [Kubernetes(K8s) 解决了哪些问题？](https://www.zhihu.com/question/329365548/answer/1545488275)
+* [Kubernetes中文社区](https://www.kubernetes.org.cn/)
+
+
+### Docker
+> Docker是一个开源的引擎，可以轻松的为任何应用创建一个轻量级的、可移植的、自给自足的容器。开发者在笔记本上编译测试通过的容器可以批量地在生产环境中部署，包括VMs（虚拟机）、 bare metal、OpenStack 集群和其他的基础应用平台。 
+
+* [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
+* [Docker中文社区](https://www.docker.org.cn/)
+* [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
+
+
+
+#### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+
+
+## 🧰DevOps、CI&CD自动化工具
+### DevOps
+> DevOps（英文Development和Operations的组合）是一组过程、方法与系统的统称，用于促进开发（应用程序/软件工程）、技术运营和质量保障（QA）部门之间的沟通、协作与整合。它的出现是由于软件行业日益清晰地认识到：为了按时交付软件产品和服务，开发和运营工作必须紧密合作。
+
+* [DevOps到底是什么意思？](https://zhuanlan.zhihu.com/p/91371659)
+* [2021年25佳DevOps工具](https://www.kubernetes.org.cn/9538.html)
+
+### CI&CD构建、部署、自动化工具
+* [21个自动化部署工具](https://zhuanlan.zhihu.com/p/248508683)
+
+
+
+#### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+
+
 ## 🌍Web前端相关
 * [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://mp.weixin.qq.com/s/GICbiyJpINrHZ41u_4zT-A)
 * HTTP响应状态码
@@ -202,8 +267,9 @@
 
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
-
 ---
+
+
 
 ## 🙇面试须知
 * [写简历的技巧](https://github.com/atian25/blog/issues/3)
@@ -213,6 +279,8 @@
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
+
+
 
 ## 🧭宝藏指南
 * [编程电子书，电子书，编程书籍PDF免费地址，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst,Redis等](https://github.com/itdevbooks/pdf)
@@ -225,6 +293,8 @@
 
 #### 🔝[返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
+
+
 
 ## ✈️社区组织
 * [Organizations Ranking](https://gitstar-ranking.com/organizations)
